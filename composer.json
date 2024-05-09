@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-configuration",
+    "name": "rnd-cosoft/api-tools-configuration",
     "description": "Laminas module providing a REST resource for manipulating configuration",
     "license": "BSD-3-Clause",
     "keywords": [

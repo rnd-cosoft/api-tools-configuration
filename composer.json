@@ -66,6 +66,9 @@
         "test": "phpunit --colors=always",
         "test-coverage": "phpunit --colors=always --coverage-clover clover.xml"
     },
+    "replace": {
+        "laminas-api-tools/api-tools-configuration": "*"
+    },
     "conflict": {
         "zfcampus/zf-configuration": "*"
     }
